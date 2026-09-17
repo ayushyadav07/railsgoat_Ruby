@@ -265,7 +265,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.19.3)
       racc (~> 1.4)
-    nokogiri (1.19.0-arm-linux-musl)
+    nokogiri (1.19.3)
       racc (~> 1.4)
     nokogiri (1.19.0-arm64-darwin)
       racc (~> 1.4)
