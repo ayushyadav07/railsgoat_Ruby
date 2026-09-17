@@ -259,7 +259,7 @@ GEM
     nokogiri (1.19.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    nokogiri (1.19.0-aarch64-linux-gnu)
+    nokogiri (1.19.3)
       racc (~> 1.4)
     nokogiri (1.19.0-aarch64-linux-musl)
       racc (~> 1.4)
